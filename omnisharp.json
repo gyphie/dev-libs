@@ -1,5 +1,9 @@
 {
     "FormattingOptions": {
+        "UseTabs": true,
+        "TabSize": 4,
+        "IndentationSize": 4,
+        
         "NewLinesForBracesInLambdaExpressionBody": false,
         "NewLinesForBracesInAnonymousMethods": true,
         "NewLinesForBracesInAnonymousTypes": true,
